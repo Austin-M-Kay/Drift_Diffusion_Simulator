@@ -7,7 +7,7 @@ An open-source computational tool developed in support of:
 #### _A New Framework for Understanding Recombination-Limited Charge Extraction in Disordered Semiconductors_
 
 
-_Austin M. Kay<sup>*1<sup>$, Drew B. Riley$^{*1}$, Paul Meredith$^1$, Ardalan Armin$^{*1}$, & Oskar J. Sandberg$^{*2}$_
+_Austin M. Kay<sup>*1</sup>, Drew B. Riley<sup>*1</sup>, Paul Meredith$^1$, Ardalan Armin$^{*1}$, & Oskar J. Sandberg$^{*2}$_
 
 $^1$Sustainable Advanced Materials (Sêr SAM), Centre for Integrative Semiconductor Materials (CISM), Swansea University Bay Campus, Crymlyn Burrows, SA1 8EN, United Kingdom
 
