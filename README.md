@@ -1,4 +1,4 @@
-# Drift-Diffusion Simulator (Version 2.3)
+# Drift-Diffusion Simulator (Version 2.4)
 
 ***
 
@@ -15,6 +15,8 @@ _Austin M. Kay<sup>*1</sup>, Drew B. Riley<sup>*1</sup>, Paul Meredith, Ardalan 
 
 Email: a.m.kay.954708@swansea.ac.uk; d.b.riley@swansea.ac.uk; oskar.sandberg@abo.fi
 
+***
+Version 2.4: Updated optical modelling section of the code to include plot of normalised optical elecrtric field density.
 ***
 
 Please report any errors or suggestions/requests to Austin Kay at a.m.kay.954708@swansea.ac.uk.
