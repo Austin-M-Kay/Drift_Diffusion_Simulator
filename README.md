@@ -17,4 +17,4 @@ Email: a.m.kay.954708@swansea.ac.uk; d.b.riley@swansea.ac.uk; oskar.sandberg@abo
 
 ***
 
-Please report any errors or requests to Austin Kay at a.m.kay.954708@swansea.ac.uk.
+Please report any errors or suggestions/requests to Austin Kay at a.m.kay.954708@swansea.ac.uk.
